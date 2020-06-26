@@ -8,6 +8,8 @@
 
 1.  [All IT eBooks](http://www.allitebooks.org/ "All IT eBooks")
 
+1.  [Vamei](https://www.cnblogs.com/vamei/ "Vamei")
+
 1.  [tutorialspoint](https://www.tutorialspoint.com/ "tutorialspoint")
 
 1.  [filehorse](https://www.filehorse.com/ "filehorse")
