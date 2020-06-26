@@ -4,11 +4,13 @@
 
 1.    [夏门大学数据库实验室](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室")
 
-1.    [Kettle community](http://www.kettle.be/ "Kettle community")
+1.    [GitChat](https://gitbook.cn/ "GitChat")
 
 1.    [Vamei](https://www.cnblogs.com/vamei/ "Vamei")
 
 1.    [tutorialspoint](https://www.tutorialspoint.com/ "tutorialspoint")
+
+1.    [Kettle community](http://www.kettle.be/ "Kettle community")
 
 1.    [All IT eBooks](http://www.allitebooks.org/ "All IT eBooks")
 
