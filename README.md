@@ -12,6 +12,8 @@
 
 1.    [Kettle community](http://www.kettle.be/ "Kettle community")
 
+1.    [Markdown](https://daringfireball.net/projects/markdown/ "Markdown")
+
 1.    [All IT eBooks](http://www.allitebooks.org/ "All IT eBooks")
 
 1.    [filehorse](https://www.filehorse.com/ "filehorse")
