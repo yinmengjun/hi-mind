@@ -10,7 +10,7 @@
 
 1.    [stackoverflow](https://stackoverflow.com/ "stackoverflow")    
       
-      *    [Tags](https://stackoverflow.com/tags/ "Tags")
+      *    [Tags](https://stackoverflow.com/tags "Tags")
 
 1.    [Kettle community](http://www.kettle.be/ "Kettle community")
 
