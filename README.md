@@ -4,6 +4,8 @@
 
 1.    [夏门大学数据库实验室](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室")
 
+1.    [雷锋网](https://www.leiphone.com/ "雷锋网")
+
 1.    [GitChat](https://gitbook.cn/ "GitChat")
 
 1.    [Vamei](https://www.cnblogs.com/vamei/ "Vamei")
