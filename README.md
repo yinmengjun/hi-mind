@@ -22,4 +22,4 @@
 
 1.    [filehorse](https://www.filehorse.com/ "filehorse")
 
-1.    [PronVPN](https://www.ipron.org/ "PronVPN")
+1.    [PronVPN](https://www.pronvpn.org/ "PronVPN") or [PronVPN](https://www.ipron.org/ "PronVPN")
