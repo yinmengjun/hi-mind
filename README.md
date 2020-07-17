@@ -14,6 +14,8 @@
       
       *    [Tags](https://stackoverflow.com/tags "Tags")
 
+1.    [Conda](https://conda.io/en/latest/ "Conda")
+
 1.    [Kettle community](http://www.kettle.be/ "Kettle community")
 
 1.    [Markdown](https://daringfireball.net/projects/markdown/ "Markdown")
