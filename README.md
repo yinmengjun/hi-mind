@@ -6,6 +6,8 @@
 
 1.    [静觅崔庆才的个人站点](https://cuiqingcai.com/ "静觅崔庆才的个人站点")
 
+1.    [Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Python3网络爬虫开发实战")
+
 1.    [雷锋网](https://www.leiphone.com/ "雷锋网")
 
 1.    [GitChat](https://gitbook.cn/ "GitChat")
