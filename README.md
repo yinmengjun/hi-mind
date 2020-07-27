@@ -4,6 +4,8 @@
 
 1.    [NoSQL](https://hostingdata.co.uk/nosql-database/ "NoSQL")
 
+1.    [SQL Fiddle](http://sqlfiddle.com/ "SQL Fiddle")
+
 1.    [夏门大学数据库实验室](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室")
 
 1.    [静觅崔庆才的个人站点](https://cuiqingcai.com/ "静觅崔庆才的个人站点")
