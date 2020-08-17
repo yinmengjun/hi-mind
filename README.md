@@ -18,6 +18,8 @@
 
 1.    [Vamei](https://www.cnblogs.com/vamei/ "Vamei")
 
+1.    [USTC open source software mirror](http://mirrors.ustc.edu.cn/ "USTC open source software mirror")
+
 1.    [stackoverflow](https://stackoverflow.com/ "stackoverflow")    
       
       *    [Tags](https://stackoverflow.com/tags "Tags")
