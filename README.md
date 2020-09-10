@@ -8,6 +8,8 @@
 
 1.    [夏门大学数据库实验室](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室")
 
+1.    [Jack Cui](https://cuijiahua.com/ "Jack Cui")
+
 1.    [静觅崔庆才的个人站点](https://cuiqingcai.com/ "静觅崔庆才的个人站点")
 
 1.    [Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Python3网络爬虫开发实战")
