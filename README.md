@@ -24,6 +24,8 @@
 
 1.    [JSON](https://www.json.org/json-zh.html "JSON")
 
+1.    [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
+
 1.    [stackoverflow](https://stackoverflow.com/ "stackoverflow")    
       
       *    [Tags](https://stackoverflow.com/tags "Tags")
