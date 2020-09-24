@@ -20,7 +20,7 @@
 
 1.    [Vamei - 博客园](https://www.cnblogs.com/vamei/ "Vamei - 博客园")
 
-1.    [USTC open source software mirror](http://mirrors.ustc.edu.cn/ "USTC open source software mirror")
+1.    [USTC Open Source Software Mirror](http://mirrors.ustc.edu.cn/ "USTC Open Source Software Mirror")
 
 1.    [JSON](https://www.json.org/json-zh.html "JSON")
 
