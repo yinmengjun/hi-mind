@@ -18,7 +18,7 @@
 
 1.    [GitChat](https://gitbook.cn/ "GitChat")
 
-1.    [Vamei](https://www.cnblogs.com/vamei/ "Vamei")
+1.    [Vamei - 博客园](https://www.cnblogs.com/vamei/ "Vamei - 博客园")
 
 1.    [USTC open source software mirror](http://mirrors.ustc.edu.cn/ "USTC open source software mirror")
 
