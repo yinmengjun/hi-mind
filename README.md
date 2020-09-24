@@ -14,7 +14,7 @@
 
 1.    [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Introduction - Python3网络爬虫开发实战")
 
-1.    [雷锋网](https://www.leiphone.com/ "雷锋网")
+1.    [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
 
 1.    [GitChat](https://gitbook.cn/ "GitChat")
 
