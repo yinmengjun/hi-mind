@@ -38,6 +38,6 @@
 
 1.    [All IT eBooks - Free IT eBooks Download](http://www.allitebooks.org/ "All IT eBooks - Free IT eBooks Download")
 
-1.    [filehorse](https://www.filehorse.com/ "filehorse")
+1.    [FileHorse.com / Free Software Download for Windows](https://www.filehorse.com/ "FileHorse.com / Free Software Download for Windows")
 
 1.    [PronVPN](https://www.pronvpn.org/ "PronVPN") or [PronVPN](https://www.ipron.org/ "PronVPN")
