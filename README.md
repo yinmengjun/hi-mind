@@ -8,7 +8,7 @@
 
 1.    [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 
-1.    [Jack Cui](https://cuijiahua.com/ "Jack Cui")
+1.    [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 
 1.    [静觅崔庆才的个人站点](https://cuiqingcai.com/ "静觅崔庆才的个人站点")
 
