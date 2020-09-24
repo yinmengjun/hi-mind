@@ -32,7 +32,7 @@
 
 1.    [Conda — Conda   documentation](https://conda.io/en/latest/ "Conda — Conda   documentation")
 
-1.    [Kettle community](http://www.kettle.be/ "Kettle community")
+1.    [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
 
 1.    [Markdown](https://daringfireball.net/projects/markdown/ "Markdown")
 
