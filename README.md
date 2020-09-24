@@ -34,7 +34,7 @@
 
 1.    [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
 
-1.    [Markdown](https://daringfireball.net/projects/markdown/ "Markdown")
+1.    [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 
 1.    [All IT eBooks](http://www.allitebooks.org/ "All IT eBooks")
 
