@@ -30,7 +30,7 @@
       
       *    [Tags - Stack Overflow](https://stackoverflow.com/tags "Tags - Stack Overflow")
 
-1.    [Conda](https://conda.io/en/latest/ "Conda")
+1.    [Conda — Conda   documentation](https://conda.io/en/latest/ "Conda — Conda   documentation")
 
 1.    [Kettle community](http://www.kettle.be/ "Kettle community")
 
