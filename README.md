@@ -28,7 +28,7 @@
 
 1.    [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers")    
       
-      *    [Tags](https://stackoverflow.com/tags "Tags")
+      *    [Tags - Stack Overflow](https://stackoverflow.com/tags "Tags - Stack Overflow")
 
 1.    [Conda](https://conda.io/en/latest/ "Conda")
 
