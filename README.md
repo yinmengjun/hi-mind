@@ -10,7 +10,7 @@
 
 1.    [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 
-1.    [静觅崔庆才的个人站点](https://cuiqingcai.com/ "静觅崔庆才的个人站点")
+1.    [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
 
 1.    [Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Python3网络爬虫开发实战")
 
