@@ -26,7 +26,7 @@
 
 1.    [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 
-1.    [stackoverflow](https://stackoverflow.com/ "stackoverflow")    
+1.    [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers")    
       
       *    [Tags](https://stackoverflow.com/tags "Tags")
 
