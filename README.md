@@ -40,4 +40,4 @@
 
 1.    [FileHorse.com / Free Software Download for Windows](https://www.filehorse.com/ "FileHorse.com / Free Software Download for Windows")
 
-1.    [PronVPN_Free Web Proxy and Privacy Tools](https://www.pronvpn.org/ "PronVPN_Free Web Proxy and Privacy Tools") or [PronVPN](https://www.ipron.org/ "PronVPN")
+1.    [PronVPN_Free Web Proxy and Privacy Tools](https://www.pronvpn.org/ "PronVPN_Free Web Proxy and Privacy Tools") or [PronVPN_Free Web Proxy and Privacy Tools](https://www.ipron.org/ "PronVPN_Free Web Proxy and Privacy Tools")
