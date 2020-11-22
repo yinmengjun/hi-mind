@@ -38,6 +38,8 @@
 
 1.    [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 
+1.    [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown · GitHub Guides")
+
 1.    [All IT eBooks - Free IT eBooks Download](http://www.allitebooks.org/ "All IT eBooks - Free IT eBooks Download")
 
 1.    [FileHorse.com / Free Software Download for Windows](https://www.filehorse.com/ "FileHorse.com / Free Software Download for Windows")
