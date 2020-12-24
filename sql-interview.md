@@ -78,3 +78,5 @@ b)  通过SQL代码删除表一的重复记录（重复记录只保留一条）
   [1]: http://sqlfiddle.com/#!4/8cce1/1
   [2]: http://sqlfiddle.com/#!4/8cce1/1/0
   [3]: http://sqlfiddle.com/#!4/8cce1/1/1
+
+2.  根据表二和表三的样例数据，请写出SQL查询结果。
