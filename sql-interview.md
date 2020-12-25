@@ -97,3 +97,17 @@ b)  通过SQL代码删除表一的重复记录（重复记录只保留一条）
 | 0101002 | 01001 | 50 | 2005-02-11 |
 
 SQL代码如下：
+
+    SELECT
+    	count( a.pno ),
+    	count( * ) 
+    FROM
+    	b
+    	LEFT JOIN a ON b.pno = a.pno;
+    SELECT
+    	count( b.pno ),
+    	count( * ) 
+    FROM
+    	a
+    	LEFT JOIN b ON a.pno = b.pno;
+请写出运行结果
