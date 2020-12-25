@@ -111,3 +111,63 @@ SQL代码如下：
     	a
     	LEFT JOIN b ON a.pno = b.pno;
 请写出运行结果
+
+[SQL Fiddle][1]
+
+**Oracle 11g R2 Schema Setup**:
+
+    CREATE TABLE a ( pno VARCHAR2 ( 30 ), pamt NUMBER, date2 DATE );
+    INSERT INTO a ( pno, pamt, date2 )
+    VALUES
+    	( '01001', 100, TO_DATE( '2005-01-01', 'yyyy-mm-dd' ) );
+    INSERT INTO a ( pno, pamt, date2 )
+    VALUES
+    	( '01002', 150, TO_DATE( '2005-02-01', 'yyyy-mm-dd' ) );
+    CREATE TABLE b ( eno VARCHAR2 ( 30 ), pno VARCHAR2 ( 30 ), eamt NUMBER, date2 DATE );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0101001', '01001', 10, TO_DATE( '2005-01-05', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0201001', '01001',
+    	- 15, TO_DATE( '2005-01-21', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0301001', '01001',
+    	- 5, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0101002', '01001', 50, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+**Query 1**:
+
+    SELECT
+    	count( a.pno ),
+    	count( * ) 
+    FROM
+    	b
+    	LEFT JOIN a ON b.pno = a.pno
+
+**[Results][2]**:
+
+    | COUNT(A.PNO) | COUNT(*) |
+    |--------------|----------|
+    |            4 |        4 |
+**Query 2**:
+
+    
+    SELECT
+    	count( b.pno ),
+    	count( * ) 
+    FROM
+    	a
+    	LEFT JOIN b ON a.pno = b.pno
+
+**[Results][3]**:
+
+    | COUNT(B.PNO) | COUNT(*) |
+    |--------------|----------|
+    |            4 |        5 |
+
+  [1]: http://sqlfiddle.com/#!4/9e68a/1
+  [2]: http://sqlfiddle.com/#!4/9e68a/1/0
+  [3]: http://sqlfiddle.com/#!4/9e68a/1/1
