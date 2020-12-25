@@ -112,7 +112,7 @@ SQL代码如下：
     	LEFT JOIN b ON a.pno = b.pno;
 请写出运行结果
 
-[SQL Fiddle][1]
+[SQL Fiddle][4]
 
 **Oracle 11g R2 Schema Setup**:
 
@@ -147,7 +147,7 @@ SQL代码如下：
     	b
     	LEFT JOIN a ON b.pno = a.pno
 
-**[Results][2]**:
+**[Results][5]**:
 
     | COUNT(A.PNO) | COUNT(*) |
     |--------------|----------|
@@ -162,12 +162,12 @@ SQL代码如下：
     	a
     	LEFT JOIN b ON a.pno = b.pno
 
-**[Results][3]**:
+**[Results][6]**:
 
     | COUNT(B.PNO) | COUNT(*) |
     |--------------|----------|
     |            4 |        5 |
 
-  [1]: http://sqlfiddle.com/#!4/9e68a/1
-  [2]: http://sqlfiddle.com/#!4/9e68a/1/0
-  [3]: http://sqlfiddle.com/#!4/9e68a/1/1
+  [4]: http://sqlfiddle.com/#!4/9e68a/1
+  [5]: http://sqlfiddle.com/#!4/9e68a/1/0
+  [6]: http://sqlfiddle.com/#!4/9e68a/1/1
