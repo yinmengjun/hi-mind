@@ -209,3 +209,75 @@ SQL代码如下：
     WHERE
     	b.pno = '01001';
 请写出运行结果
+
+[SQL Fiddle][7]
+
+**Oracle 11g R2 Schema Setup**:
+
+    CREATE TABLE a ( pno VARCHAR2 ( 30 ), pamt NUMBER, date2 DATE );
+    INSERT INTO a ( pno, pamt, date2 )
+    VALUES
+    	( '01001', 100, TO_DATE( '2005-01-01', 'yyyy-mm-dd' ) );
+    INSERT INTO a ( pno, pamt, date2 )
+    VALUES
+    	( '01002', 150, TO_DATE( '2005-02-01', 'yyyy-mm-dd' ) );
+    CREATE TABLE b ( eno VARCHAR2 ( 30 ), pno VARCHAR2 ( 30 ), eamt NUMBER, date2 DATE );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0101001', '01001', 10, TO_DATE( '2005-01-05', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0201001', '01001',
+    	- 15, TO_DATE( '2005-01-21', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0301001', '01001',
+    	- 5, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0101002', '01001', 50, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+**Query 1**:
+
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    	AND b.pno = '01001'
+
+**[Results][8]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+    | 01002 |  150 |  (null) |
+**Query 2**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    WHERE
+    	b.pno = '01001'
+
+**[Results][9]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+
+  [7]: http://sqlfiddle.com/#!4/9e68a/2
+  [8]: http://sqlfiddle.com/#!4/9e68a/2/0
+  [9]: http://sqlfiddle.com/#!4/9e68a/2/1
