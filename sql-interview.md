@@ -190,3 +190,22 @@ SQL代码如下：
 | 0101002 | 01001 | 50 | 2005-02-11 |
 
 SQL代码如下：
+
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    	AND b.pno = '01001';
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    WHERE
+    	b.pno = '01001';
+请写出运行结果
