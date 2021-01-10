@@ -281,3 +281,16 @@ SQL代码如下：
   [7]: http://sqlfiddle.com/#!4/9e68a/2
   [8]: http://sqlfiddle.com/#!4/9e68a/2/0
   [9]: http://sqlfiddle.com/#!4/9e68a/2/1
+
+4.  通过SQL语句将表一的数据转换成为表二所展现形式  
+表一 （a）
+
+| rq | shengfu |
+| :--- | :--- |
+| rq | shengfu |
+| rq | shengfu |
+| rq | shengfu |
+| rq | shengfu |
+| rq | shengfu |
+| rq | shengfu |
+| rq | shengfu |
