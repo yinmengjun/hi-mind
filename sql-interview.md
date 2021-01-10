@@ -303,3 +303,88 @@ SQL代码如下：
 | 2005-05-10 | 1 | 2 |
 
 请写出实现的SQL语句
+
+[SQL Fiddle][10]
+
+**Oracle 11g R2 Schema Setup**:
+
+    CREATE TABLE a ( rq DATE, shengfu VARCHAR2 ( 30 ) );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-09', 'yyyy-mm-dd' ), '胜' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-09', 'yyyy-mm-dd' ), '胜' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-09', 'yyyy-mm-dd' ), '负' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-09', 'yyyy-mm-dd' ), '负' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-10', 'yyyy-mm-dd' ), '胜' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-10', 'yyyy-mm-dd' ), '负' );
+    INSERT INTO a ( rq, shengfu )
+    VALUES
+    	( TO_DATE( '2005-05-10', 'yyyy-mm-dd' ), '负' );
+**Query 1**:
+
+    SELECT
+    	rq,
+    	COUNT( DECODE( shengfu, '胜', shengfu, NULL ) ) AS 胜,
+    	COUNT( DECODE( shengfu, '负', shengfu, NULL ) ) AS 负 
+    FROM
+    	a 
+    GROUP BY
+    	rq
+
+**[Results][11]**:
+
+    |                   RQ | 胜 | 负 |
+    |----------------------|---|---|
+    | 2005-05-10T00:00:00Z | 1 | 2 |
+    | 2005-05-09T00:00:00Z | 2 | 2 |
+**Query 2**:
+
+    
+    SELECT
+    	rq,
+    	COUNT( CASE WHEN shengfu = '胜' THEN shengfu ELSE NULL END ) AS 胜,
+    	COUNT( CASE WHEN shengfu = '负' THEN shengfu ELSE NULL END ) AS 负 
+    FROM
+    	a 
+    GROUP BY
+    	rq
+
+**[Results][12]**:
+
+    |                   RQ | 胜 | 负 |
+    |----------------------|---|---|
+    | 2005-05-10T00:00:00Z | 1 | 2 |
+    | 2005-05-09T00:00:00Z | 2 | 2 |
+**Query 3**:
+
+    
+    SELECT
+    	rq,
+    	COUNT( CASE shengfu WHEN '胜' THEN shengfu ELSE NULL END ) AS 胜,
+    	COUNT( CASE shengfu WHEN '负' THEN shengfu ELSE NULL END ) AS 负 
+    FROM
+    	a 
+    GROUP BY
+    	rq
+
+**[Results][13]**:
+
+    |                   RQ | 胜 | 负 |
+    |----------------------|---|---|
+    | 2005-05-10T00:00:00Z | 1 | 2 |
+    | 2005-05-09T00:00:00Z | 2 | 2 |
+
+  [10]: http://sqlfiddle.com/#!4/f31d5/1
+  [11]: http://sqlfiddle.com/#!4/f31d5/1/0
+  [12]: http://sqlfiddle.com/#!4/f31d5/1/1
+  [13]: http://sqlfiddle.com/#!4/f31d5/1/2
