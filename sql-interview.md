@@ -402,3 +402,5 @@ SQL代码如下：
 | cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
 | cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
 | cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
+
+请写出实现的SQL语句
