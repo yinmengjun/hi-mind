@@ -443,6 +443,26 @@ SQL代码如下：
     |---------|--------|-----|
     | 6000121 | 201201 | 200 |
     | 6000121 | 201207 | 200 |
+**Query 2**:
 
-  [14]: http://sqlfiddle.com/#!4/deec28/2
-  [15]: http://sqlfiddle.com/#!4/deec28/2/0
+    
+    SELECT
+    	cust_id,
+    	substr( txn_dt, 1, 6 ) month,
+    	SUM( amt ) amt 
+    FROM
+    	t03_card_trade_detail 
+    GROUP BY
+    	cust_id,
+    	substr( txn_dt, 1, 6 )
+
+**[Results][16]**:
+
+    | CUST_ID |  MONTH | AMT |
+    |---------|--------|-----|
+    | 6000121 | 201201 | 200 |
+    | 6000121 | 201207 | 200 |
+
+  [14]: http://sqlfiddle.com/#!4/deec28/3
+  [15]: http://sqlfiddle.com/#!4/deec28/3/0
+  [16]: http://sqlfiddle.com/#!4/deec28/3/1
