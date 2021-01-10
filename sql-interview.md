@@ -404,3 +404,45 @@ SQL代码如下：
 | 6000121 | 622612010600001 | 宁波分行 | 200.00 | 20120701 |
 
 请写出实现的SQL语句
+
+[SQL Fiddle][14]
+
+**Oracle 11g R2 Schema Setup**:
+
+    CREATE TABLE t03_card_trade_detail (
+    	cust_id VARCHAR2 ( 30 ),
+    	card_id VARCHAR2 ( 30 ),
+    	org_name VARCHAR2 ( 30 ),
+    	amt NUMBER ( 18, 2 ),
+    	txn_dt VARCHAR2 ( 30 ) 
+    );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '上海分行', 100.00, '20120101' );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '上海分行', 100.00, '20120105' );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '宁波分行', 200.00, '20120701' );
+**Query 1**:
+
+    SELECT
+    	cust_id,
+    	to_char( to_date( txn_dt, 'yyyymmdd' ), 'yyyymm' ) month,
+    	SUM( amt ) amt 
+    FROM
+    	t03_card_trade_detail 
+    GROUP BY
+    	cust_id,
+    	to_char( to_date( txn_dt, 'yyyymmdd' ), 'yyyymm' )
+
+**[Results][15]**:
+
+    | CUST_ID |  MONTH | AMT |
+    |---------|--------|-----|
+    | 6000121 | 201201 | 200 |
+    | 6000121 | 201207 | 200 |
+
+  [14]: http://sqlfiddle.com/#!4/deec28/2
+  [15]: http://sqlfiddle.com/#!4/deec28/2/0
