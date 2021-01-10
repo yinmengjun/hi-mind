@@ -394,3 +394,11 @@ SQL代码如下：
 
 | cust_id（客户号） | month（月份） | amt（消费金额） |
 | :--- | :--- | :--- |
+
+表一：t03_card_trade_detail 卡交易明细表
+
+| cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
+| :--- | :--- | :---: | :--- | :--- |
+| cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
+| cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
+| cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
