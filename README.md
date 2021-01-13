@@ -45,3 +45,5 @@
 1.  [FileHorse.com / Free Software Download for Windows](https://www.filehorse.com/ "FileHorse.com / Free Software Download for Windows")
 
 1.  [PronVPN_Free Web Proxy and Privacy Tools](https://www.pronvpn.org/ "PronVPN_Free Web Proxy and Privacy Tools") or [PronVPN_Free Web Proxy and Privacy Tools](https://www.ipron.org/ "PronVPN_Free Web Proxy and Privacy Tools")
+
+1.  [佛跳墙](https://fotiaoqiang.io/ "佛跳墙") or [佛跳墙加速器(永久免费)_ads](https://www.paprnews.com/cn/ "佛跳墙加速器(永久免费)_ads")
