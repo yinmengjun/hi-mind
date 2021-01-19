@@ -24,6 +24,8 @@
 
 1.  [JSON](https://www.json.org/json-zh.html "JSON")
 
+1.  [PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org](https://www.python.org/dev/peps/ "PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org")
+
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 
 1.  [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers")    
