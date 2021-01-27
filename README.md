@@ -30,7 +30,7 @@
 
 1.  [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers")    
       
-    *  [Tags - Stack Overflow](https://stackoverflow.com/tags "Tags - Stack Overflow")
+    *  [Tags - Stack Overflow](https://stackoverflow.com/tags/ "Tags - Stack Overflow")
 
 1.  [Conda — Conda   documentation](https://conda.io/en/latest/ "Conda — Conda   documentation")
 
