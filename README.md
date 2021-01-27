@@ -6,6 +6,8 @@
 
 1.  [SQL Fiddle](http://sqlfiddle.com/ "SQL Fiddle")
 
+1.  [db<>fiddle](https://dbfiddle.uk/ "db<>fiddle")
+
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 
 1.  [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
