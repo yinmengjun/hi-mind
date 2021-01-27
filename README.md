@@ -4,7 +4,7 @@
 
 1.  [NoSQL Databases List by Hosting Data - Updated 2020](https://hostingdata.co.uk/nosql-database/ "NoSQL Databases List by Hosting Data - Updated 2020")
 
-1.  [SQL Fiddle](http://sqlfiddle.com/ "SQL Fiddle")
+1.  [SQL Fiddle](http://www.sqlfiddle.com/ "SQL Fiddle")
 
 1.  [db<>fiddle](https://dbfiddle.uk/ "db<>fiddle")
 
