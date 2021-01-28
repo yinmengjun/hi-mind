@@ -75,9 +75,9 @@ b)  通过SQL代码删除表一的重复记录（重复记录只保留一条）
 **[Results][3]**:
 
 
-  [1]: http://sqlfiddle.com/#!4/8cce1/1
-  [2]: http://sqlfiddle.com/#!4/8cce1/1/0
-  [3]: http://sqlfiddle.com/#!4/8cce1/1/1
+  [1]: http://www.sqlfiddle.com/#!4/8cce1/1
+  [2]: http://www.sqlfiddle.com/#!4/8cce1/1/0
+  [3]: http://www.sqlfiddle.com/#!4/8cce1/1/1
 
 2.  根据表一和表二的样例数据，请写出SQL查询结果。  
 表一 （a）
@@ -168,9 +168,9 @@ SQL代码如下：
     |--------------|----------|
     |            4 |        5 |
 
-  [4]: http://sqlfiddle.com/#!4/9e68a/1
-  [5]: http://sqlfiddle.com/#!4/9e68a/1/0
-  [6]: http://sqlfiddle.com/#!4/9e68a/1/1
+  [4]: http://www.sqlfiddle.com/#!4/9e68a/1
+  [5]: http://www.sqlfiddle.com/#!4/9e68a/1/0
+  [6]: http://www.sqlfiddle.com/#!4/9e68a/1/1
 
 3.  根据表一和表二的样例数据，请写出SQL语句运行结果  
 表一 （a）
@@ -278,9 +278,9 @@ SQL代码如下：
     | 01001 |  100 | 0301001 |
     | 01001 |  100 | 0101002 |
 
-  [7]: http://sqlfiddle.com/#!4/9e68a/2
-  [8]: http://sqlfiddle.com/#!4/9e68a/2/0
-  [9]: http://sqlfiddle.com/#!4/9e68a/2/1
+  [7]: http://www.sqlfiddle.com/#!4/9e68a/2
+  [8]: http://www.sqlfiddle.com/#!4/9e68a/2/0
+  [9]: http://www.sqlfiddle.com/#!4/9e68a/2/1
 
 4.  通过SQL语句将表一的数据转换成为表二所展现形式  
 表一 （a）
@@ -384,10 +384,10 @@ SQL代码如下：
     | 2005-05-10T00:00:00Z | 1 | 2 |
     | 2005-05-09T00:00:00Z | 2 | 2 |
 
-  [10]: http://sqlfiddle.com/#!4/f31d5/1
-  [11]: http://sqlfiddle.com/#!4/f31d5/1/0
-  [12]: http://sqlfiddle.com/#!4/f31d5/1/1
-  [13]: http://sqlfiddle.com/#!4/f31d5/1/2
+  [10]: http://www.sqlfiddle.com/#!4/f31d5/1
+  [11]: http://www.sqlfiddle.com/#!4/f31d5/1/0
+  [12]: http://www.sqlfiddle.com/#!4/f31d5/1/1
+  [13]: http://www.sqlfiddle.com/#!4/f31d5/1/2
 
 5.  如表一所示，该表记录了客户所持银行卡的消费信息。通过SQL语句计算一年内，客户每月的消费金额。  
 查询结果格式如下：
@@ -463,6 +463,6 @@ SQL代码如下：
     | 6000121 | 201201 | 200 |
     | 6000121 | 201207 | 200 |
 
-  [14]: http://sqlfiddle.com/#!4/deec28/3
-  [15]: http://sqlfiddle.com/#!4/deec28/3/0
-  [16]: http://sqlfiddle.com/#!4/deec28/3/1
+  [14]: http://www.sqlfiddle.com/#!4/deec28/3
+  [15]: http://www.sqlfiddle.com/#!4/deec28/3/0
+  [16]: http://www.sqlfiddle.com/#!4/deec28/3/1
