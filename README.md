@@ -58,6 +58,8 @@
 
 1.  [FreeProxy.World - Free Proxy List](https://www.freeproxy.world/ "FreeProxy.World - Free Proxy List")
 
+1.  [Multi-IP Free Web Proxy | Free Proxy List - My-Proxy](https://www.my-proxy.com/ "Multi-IP Free Web Proxy | Free Proxy List - My-Proxy")
+
 1.  [PronVPN_Free Web Proxy and Privacy Tools](https://www.pronvpn.org/ "PronVPN_Free Web Proxy and Privacy Tools") or [PronVPN_Free Web Proxy and Privacy Tools](https://www.ipron.org/ "PronVPN_Free Web Proxy and Privacy Tools")
 
 1.  [佛跳墙](https://fotiaoqiang.io/ "佛跳墙") or [佛跳墙加速器(永久免费)_ads](https://www.paprnews.com/cn/ "佛跳墙加速器(永久免费)_ads")
