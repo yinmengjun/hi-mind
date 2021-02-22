@@ -12,6 +12,8 @@
 
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 
+1.  [The latest in Machine Learning | Papers With Code](https://www.paperswithcode.com/ "The latest in Machine Learning | Papers With Code")
+
 1.  [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 
 1.  [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
