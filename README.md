@@ -34,6 +34,8 @@
 
 1.  [PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org](https://www.python.org/dev/peps/ "PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org")
 
+1.  [Finxter | Create Your Thriving Coding Business](https://blog.finxter.com/ "Finxter | Create Your Thriving Coding Business")
+
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 
 1.  [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/ "Stack Overflow - Where Developers Learn, Share, & Build Careers")    
