@@ -42,8 +42,6 @@
       
     *  [Tags - Stack Overflow](https://stackoverflow.com/tags/ "Tags - Stack Overflow")
 
-1.  [Conda — Conda   documentation](https://conda.io/en/latest/ "Conda — Conda   documentation")
-
 1.  [Pentaho from Hitachi Vantara download | SourceForge.net](https://sourceforge.net/projects/pentaho/ "Pentaho from Hitachi Vantara download | SourceForge.net")
 
 1.  [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
