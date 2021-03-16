@@ -32,6 +32,8 @@
 
 1.  [Finxter | Create Your Thriving Coding Business](https://blog.finxter.com/ "Finxter | Create Your Thriving Coding Business")
 
+1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
+
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 
 1.  [USTC Open Source Software Mirror](http://mirrors.ustc.edu.cn/ "USTC Open Source Software Mirror")
