@@ -36,6 +36,8 @@
 
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 
+1.  [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/ "Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution")
+
 1.  [USTC Open Source Software Mirror](http://mirrors.ustc.edu.cn/ "USTC Open Source Software Mirror")
 
 1.  [JSON](https://www.json.org/json-zh.html "JSON")
