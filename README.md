@@ -62,6 +62,4 @@
 
 1.  [The Web Robots Pages](http://www.robotstxt.org/ "The Web Robots Pages")
 
-1.  [佛跳墙](https://fotiaoqiang.io/ "佛跳墙") or [佛跳墙加速器(永久免费)_ads](https://www.paprnews.com/cn/ "佛跳墙加速器(永久免费)_ads")
-
 1.  [中华人民共和国司法部](http://www.moj.gov.cn/ "中华人民共和国司法部")
