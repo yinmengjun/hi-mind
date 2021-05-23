@@ -10,6 +10,8 @@
 
 1.  [Repl.it - The collaborative browser based IDE](https://repl.it/ "Repl.it - The collaborative browser based IDE")
 
+1.  [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode-cn.com/ "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台")
+
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 
 1.  [The latest in Machine Learning | Papers With Code](https://www.paperswithcode.com/ "The latest in Machine Learning | Papers With Code")
