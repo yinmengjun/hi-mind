@@ -56,6 +56,8 @@
 
 1.  [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
 
+1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
+
 1.  [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 
 1.  [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown · GitHub Guides")
