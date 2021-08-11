@@ -1,0 +1,77 @@
+1.  如表一所示，该表记录了客户所持银行卡的消费信息。通过SQL语句计算一年内，客户每月的消费金额。  
+查询结果格式如下：
+
+| cust_id（客户号） | month（月份） | amt（消费金额） |
+| :--- | :--- | :--- |
+
+表一：t03_card_trade_detail 卡交易明细表
+
+| cust_id（客户号） | card_id（卡号） | org_name（所属机构） | amt（交易金额） | txn_dt（交易日期） |
+| :--- | :--- | :---: | :--- | :--- |
+| 6000121 | 622612010600001 | 上海分行 | 100.00 | 20120101 |
+| 6000121 | 622612010600001 | 上海分行 | 100.00 | 20120105 |
+| 6000121 | 622612010600001 | 宁波分行 | 200.00 | 20120701 |
+
+请写出实现的SQL语句
+
+[SQL Fiddle][1]
+
+**Oracle 11g R2 Schema Setup**:
+
+    CREATE TABLE t03_card_trade_detail (
+    	cust_id VARCHAR2 ( 30 ),
+    	card_id VARCHAR2 ( 30 ),
+    	org_name VARCHAR2 ( 30 ),
+    	amt NUMBER ( 18, 2 ),
+    	txn_dt VARCHAR2 ( 30 ) 
+    );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '上海分行', 100.00, '20120101' );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '上海分行', 100.00, '20120105' );
+    INSERT INTO t03_card_trade_detail ( cust_id, card_id, org_name, amt, txn_dt )
+    VALUES
+    	( '6000121', '622612010600001', '宁波分行', 200.00, '20120701' );
+**Query 1**:
+
+    SELECT
+    	cust_id,
+    	to_char( to_date( txn_dt, 'yyyymmdd' ), 'yyyymm' ) month,
+    	SUM( amt ) amt 
+    FROM
+    	t03_card_trade_detail 
+    GROUP BY
+    	cust_id,
+    	to_char( to_date( txn_dt, 'yyyymmdd' ), 'yyyymm' )
+
+**[Results][2]**:
+
+    | CUST_ID |  MONTH | AMT |
+    |---------|--------|-----|
+    | 6000121 | 201201 | 200 |
+    | 6000121 | 201207 | 200 |
+**Query 2**:
+
+    
+    SELECT
+    	cust_id,
+    	substr( txn_dt, 1, 6 ) month,
+    	SUM( amt ) amt 
+    FROM
+    	t03_card_trade_detail 
+    GROUP BY
+    	cust_id,
+    	substr( txn_dt, 1, 6 )
+
+**[Results][3]**:
+
+    | CUST_ID |  MONTH | AMT |
+    |---------|--------|-----|
+    | 6000121 | 201201 | 200 |
+    | 6000121 | 201207 | 200 |
+
+  [1]: http://www.sqlfiddle.com/#!4/deec28/3
+  [2]: http://www.sqlfiddle.com/#!4/deec28/3/0
+  [3]: http://www.sqlfiddle.com/#!4/deec28/3/1
