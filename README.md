@@ -14,6 +14,8 @@
 
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 
+1.  [AMiner - AI赋能科技情报挖掘](https://www.aminer.cn/ "AMiner - AI赋能科技情报挖掘")
+
 1.  [The latest in Machine Learning | Papers With Code](https://www.paperswithcode.com/ "The latest in Machine Learning | Papers With Code")
 
 1.  [Art of Problem Solving](https://artofproblemsolving.com/ "Art of Problem Solving")
