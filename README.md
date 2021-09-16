@@ -34,13 +34,9 @@
 
 1.  [GitChat](https://gitbook.cn/ "GitChat")
 
-1.  [Vamei - 博客园](https://www.cnblogs.com/vamei/ "Vamei - 博客园")
-
 1.  [PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org](https://www.python.org/dev/peps/ "PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org")
 
 1.  [oracle-developer.net](http://www.oracle-developer.net/index.php "oracle-developer.net")
-
-1.  [Finxter | Create Your Thriving Coding Business](https://blog.finxter.com/ "Finxter | Create Your Thriving Coding Business")
 
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
 
