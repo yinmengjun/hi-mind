@@ -38,6 +38,8 @@
 
     *  [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/ "PEP 8 -- Style Guide for Python Code | Python.org")
 
+    *  [PEP 20 -- The Zen of Python | Python.org](https://www.python.org/dev/peps/pep-0020/ "PEP 20 -- The Zen of Python | Python.org")
+
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
 
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
