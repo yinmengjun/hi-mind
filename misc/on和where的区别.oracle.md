@@ -63,6 +63,18 @@ SQL代码如下：
     INSERT INTO b ( eno, pno, eamt, date2 )
     VALUES
     	( '0101002', '01001', 50, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0501001', '01002', 60, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0501002', '01002', 70, TO_DATE( '2005-03-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0601001', '01003', 80, TO_DATE( '2005-02-11', 'yyyy-mm-dd' ) );
+    INSERT INTO b ( eno, pno, eamt, date2 )
+    VALUES
+    	( '0601002', '01003', 90, TO_DATE( '2005-03-11', 'yyyy-mm-dd' ) );
 **Query 1**:
 
     SELECT
@@ -71,8 +83,7 @@ SQL代码如下：
     	b.eno 
     FROM
     	a LEFT OUTER
-    	JOIN b ON a.pno = b.pno 
-    	AND b.pno = '01001'
+    	JOIN b ON a.pno = b.pno
 
 **[Results][2]**:
 
@@ -82,8 +93,30 @@ SQL代码如下：
     | 01001 |  100 | 0201001 |
     | 01001 |  100 | 0301001 |
     | 01001 |  100 | 0101002 |
-    | 01002 |  150 |  (null) |
+    | 01002 |  150 | 0501001 |
+    | 01002 |  150 | 0501002 |
 **Query 2**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    	AND b.pno = '01001'
+
+**[Results][3]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+    | 01002 |  150 |  (null) |
+**Query 3**:
 
     
     SELECT
@@ -96,7 +129,7 @@ SQL代码如下：
     WHERE
     	b.pno = '01001'
 
-**[Results][3]**:
+**[Results][4]**:
 
     |   PNO | PAMT |     ENO |
     |-------|------|---------|
@@ -105,6 +138,7 @@ SQL代码如下：
     | 01001 |  100 | 0301001 |
     | 01001 |  100 | 0101002 |
 
-  [1]: http://www.sqlfiddle.com/#!4/9e68a/2
-  [2]: http://www.sqlfiddle.com/#!4/9e68a/2/0
-  [3]: http://www.sqlfiddle.com/#!4/9e68a/2/1
+  [1]: http://sqlfiddle.com/#!4/97c777/2
+  [2]: http://sqlfiddle.com/#!4/97c777/2/0
+  [3]: http://sqlfiddle.com/#!4/97c777/2/1
+  [4]: http://sqlfiddle.com/#!4/97c777/2/2
