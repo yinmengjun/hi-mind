@@ -23,22 +23,29 @@
 SQL代码如下：
 
     SELECT
-    	a.pno,
-    	a.pamt,
-    	b.eno 
+        a.pno,
+        a.pamt,
+        b.eno 
     FROM
-    	a LEFT OUTER
-    	JOIN b ON a.pno = b.pno 
-    	AND b.pno = '01001';
+        a LEFT OUTER
+        JOIN b ON a.pno = b.pno;
     SELECT
-    	a.pno,
-    	a.pamt,
-    	b.eno 
+        a.pno,
+        a.pamt,
+        b.eno 
     FROM
-    	a LEFT OUTER
-    	JOIN b ON a.pno = b.pno 
+        a LEFT OUTER
+        JOIN b ON a.pno = b.pno 
+        AND b.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a LEFT OUTER
+        JOIN b ON a.pno = b.pno 
     WHERE
-    	b.pno = '01001';
+        b.pno = '01001';
 请写出运行结果
 
 [SQL Fiddle][1]
