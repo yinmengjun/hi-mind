@@ -46,6 +46,23 @@ SQL代码如下：
         JOIN b ON a.pno = b.pno 
     WHERE
         b.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a LEFT OUTER
+        JOIN b ON a.pno = b.pno 
+        AND a.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a LEFT OUTER
+        JOIN b ON a.pno = b.pno 
+    WHERE
+        a.pno = '01001';
 请写出运行结果
 
 [SQL Fiddle][1]
@@ -148,8 +165,52 @@ SQL代码如下：
     | 01001 |  100 | 0201001 |
     | 01001 |  100 | 0301001 |
     | 01001 |  100 | 0101002 |
+**Query 4**:
 
-  [1]: http://sqlfiddle.com/#!4/97c777/2
-  [2]: http://sqlfiddle.com/#!4/97c777/2/0
-  [3]: http://sqlfiddle.com/#!4/97c777/2/1
-  [4]: http://sqlfiddle.com/#!4/97c777/2/2
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    	AND a.pno = '01001'
+
+**[Results][5]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+    | 01002 |  150 |  (null) |
+**Query 5**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a LEFT OUTER
+    	JOIN b ON a.pno = b.pno 
+    WHERE
+    	a.pno = '01001'
+
+**[Results][6]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+
+  [1]: http://sqlfiddle.com/#!4/97c777/5
+  [2]: http://sqlfiddle.com/#!4/97c777/5/0
+  [3]: http://sqlfiddle.com/#!4/97c777/5/1
+  [4]: http://sqlfiddle.com/#!4/97c777/5/2
+  [5]: http://sqlfiddle.com/#!4/97c777/5/3
+  [6]: http://sqlfiddle.com/#!4/97c777/5/4
