@@ -207,10 +207,118 @@ SQL代码如下：
     | 01001 |  100 | 0201001 |
     | 01001 |  100 | 0301001 |
     | 01001 |  100 | 0101002 |
+**Query 6**:
 
-  [1]: http://sqlfiddle.com/#!4/97c777/5
-  [2]: http://sqlfiddle.com/#!4/97c777/5/0
-  [3]: http://sqlfiddle.com/#!4/97c777/5/1
-  [4]: http://sqlfiddle.com/#!4/97c777/5/2
-  [5]: http://sqlfiddle.com/#!4/97c777/5/3
-  [6]: http://sqlfiddle.com/#!4/97c777/5/4
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a
+    	INNER JOIN b ON a.pno = b.pno
+
+**[Results][7]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+    | 01002 |  150 | 0501001 |
+    | 01002 |  150 | 0501002 |
+**Query 7**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a
+    	INNER JOIN b ON a.pno = b.pno 
+    	AND a.pno = '01001'
+
+**[Results][8]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+**Query 8**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a
+    	INNER JOIN b ON a.pno = b.pno 
+    	AND b.pno = '01001'
+
+**[Results][9]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+**Query 9**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a
+    	INNER JOIN b ON a.pno = b.pno 
+    WHERE
+    	a.pno = '01001'
+
+**[Results][10]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+**Query 10**:
+
+    
+    SELECT
+    	a.pno,
+    	a.pamt,
+    	b.eno 
+    FROM
+    	a
+    	INNER JOIN b ON a.pno = b.pno 
+    WHERE
+    	b.pno = '01001'
+
+**[Results][11]**:
+
+    |   PNO | PAMT |     ENO |
+    |-------|------|---------|
+    | 01001 |  100 | 0101001 |
+    | 01001 |  100 | 0201001 |
+    | 01001 |  100 | 0301001 |
+    | 01001 |  100 | 0101002 |
+
+  [1]: http://sqlfiddle.com/#!4/97c777/6
+  [2]: http://sqlfiddle.com/#!4/97c777/6/0
+  [3]: http://sqlfiddle.com/#!4/97c777/6/1
+  [4]: http://sqlfiddle.com/#!4/97c777/6/2
+  [5]: http://sqlfiddle.com/#!4/97c777/6/3
+  [6]: http://sqlfiddle.com/#!4/97c777/6/4
+  [7]: http://sqlfiddle.com/#!4/97c777/6/5
+  [8]: http://sqlfiddle.com/#!4/97c777/6/6
+  [9]: http://sqlfiddle.com/#!4/97c777/6/7
+  [10]: http://sqlfiddle.com/#!4/97c777/6/8
+  [11]: http://sqlfiddle.com/#!4/97c777/6/9
