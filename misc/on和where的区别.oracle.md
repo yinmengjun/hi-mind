@@ -63,6 +63,47 @@ SQL代码如下：
         JOIN b ON a.pno = b.pno 
     WHERE
         a.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a
+        INNER JOIN b ON a.pno = b.pno;
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a
+        INNER JOIN b ON a.pno = b.pno 
+        AND a.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a
+        INNER JOIN b ON a.pno = b.pno 
+        AND b.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a
+        INNER JOIN b ON a.pno = b.pno 
+    WHERE
+        a.pno = '01001';
+    SELECT
+        a.pno,
+        a.pamt,
+        b.eno 
+    FROM
+        a
+        INNER JOIN b ON a.pno = b.pno 
+    WHERE
+        b.pno = '01001';
 请写出运行结果
 
 [SQL Fiddle][1]
