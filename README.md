@@ -74,6 +74,8 @@
 
     *  [如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈](https://jishuin.proginn.com/p/763bfbd654fd "如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈")
 
+    *  [Teradata 教程_w3cschool](https://www.w3cschool.cn/teradata/ "Teradata 教程_w3cschool")
+
 1.  [The Web Robots Pages](http://www.robotstxt.org/ "The Web Robots Pages")
 
 1.  [经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站](https://bbs.pinggu.org/ "经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站")
