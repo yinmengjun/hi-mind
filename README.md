@@ -17,7 +17,6 @@
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
 1.  [GitChat](https://gitbook.cn/ "GitChat")
 1.  [PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org](https://www.python.org/dev/peps/ "PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org")
-    *  [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/ "PEP 8 -- Style Guide for Python Code | Python.org")
     *  [PEP 20 -- The Zen of Python | Python.org](https://www.python.org/dev/peps/pep-0020/ "PEP 20 -- The Zen of Python | Python.org")
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
