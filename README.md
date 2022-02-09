@@ -31,6 +31,8 @@
 1.  [WinSCP :: WinSCP](https://winscp.net/eng/docs/lang:chs/ "WinSCP :: WinSCP")
 1.  [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 1.  [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown · GitHub Guides")
+1.  [GitHub](https://github.com/ "GitHub")
+    *  [cheatsheets/bash.md at master · rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets")
 1.  文章
     *  [一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度](https://blog.csdn.net/qq_41523096/article/details/82142747/ "一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度")
     *  [PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客](https://blog.csdn.net/weixin_42163563/article/details/90292776 "PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客")
