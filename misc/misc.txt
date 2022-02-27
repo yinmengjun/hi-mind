@@ -1,4 +1,0 @@
-https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
-https://docs.oracle.com/cd/E11882_01/index.htm
-https://rogerdudler.github.io/git-guide/index.zh.html
-https://www.iqce8.com/
