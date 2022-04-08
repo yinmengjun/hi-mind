@@ -11,6 +11,7 @@
     *  [如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈](https://jishuin.proginn.com/p/763bfbd654fd "如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈")
     *  [Teradata 教程_w3cschool](https://www.w3cschool.cn/teradata/ "Teradata 教程_w3cschool")
     *  [No.16 【漫谈数据仓库】 拉链表](https://mp.weixin.qq.com/s/gaPTeEXvHGOuT8tlre4nFw "No.16 【漫谈数据仓库】 拉链表")
+    *  [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/index.zh.html "git - the simple guide - no deep shit!")
 # :1234:  Link2
 1.  [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](https://db-engines.com/en/ "DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems")
 1.  [NoSQL Databases List by Hosting Data - Updated 2020](https://hostingdata.co.uk/nosql-database/ "NoSQL Databases List by Hosting Data - Updated 2020")
