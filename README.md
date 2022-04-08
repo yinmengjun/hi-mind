@@ -16,6 +16,7 @@
 1.  [NoSQL Databases List by Hosting Data - Updated 2020](https://hostingdata.co.uk/nosql-database/ "NoSQL Databases List by Hosting Data - Updated 2020")
 1.  [SQL Fiddle](http://www.sqlfiddle.com/ "SQL Fiddle")
 1.  [db<>fiddle](https://dbfiddle.uk/ "db<>fiddle")
+1.  [Oracle Database Online Documentation 11g](https://docs.oracle.com/cd/E11882_01/index.htm "Oracle Database Online Documentation 11g")
 1.  [Repl.it - The collaborative browser based IDE](https://repl.it/ "Repl.it - The collaborative browser based IDE")
 1.  [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode-cn.com/ "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
