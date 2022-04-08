@@ -26,6 +26,7 @@
 1.  [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 1.  [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
 1.  [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Introduction - Python3网络爬虫开发实战")
+1.  [https://www.ietf.org/rfc/rfc2616.html](https://www.ietf.org/rfc/rfc2616.html "https://www.ietf.org/rfc/rfc2616.html")
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
 1.  [GitChat](https://gitbook.cn/ "GitChat")
