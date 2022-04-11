@@ -1,3 +1,3 @@
-cat test.sh | while read line; do
+cat test2.sh | while read line; do
     echo $line
 done
