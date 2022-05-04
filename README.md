@@ -5,6 +5,8 @@
     *  [cheatsheets/bash.md at master · rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets")
     *  [learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/sql.html.markdown "learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/perl.html.markdown "learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs")
+1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
+    *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
     *  [一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度](https://blog.csdn.net/qq_41523096/article/details/82142747/ "一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度")
     *  [PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客](https://blog.csdn.net/weixin_42163563/article/details/90292776 "PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客")
@@ -20,7 +22,6 @@
 1.  [Oracle Database Online Documentation 11g](https://docs.oracle.com/cd/E11882_01/index.htm "Oracle Database Online Documentation 11g")
 1.  [Repl.it - The collaborative browser based IDE](https://repl.it/ "Repl.it - The collaborative browser based IDE")
 1.  [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode-cn.com/ "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台")
-1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
 1.  [AMiner - AI赋能科技情报挖掘](https://www.aminer.cn/ "AMiner - AI赋能科技情报挖掘")
 1.  [The latest in Machine Learning | Papers With Code](https://www.paperswithcode.com/ "The latest in Machine Learning | Papers With Code")
 1.  [Art of Problem Solving](https://artofproblemsolving.com/ "Art of Problem Solving")
