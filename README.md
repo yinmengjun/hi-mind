@@ -50,6 +50,8 @@
     *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/java.html.markdown "learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
+1.  文章
+    *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
 1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
 1.  [WinSCP :: WinSCP](https://winscp.net/eng/docs/lang:chs/ "WinSCP :: WinSCP")
 1.  [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
