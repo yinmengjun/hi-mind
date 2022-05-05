@@ -45,6 +45,7 @@
 1.  [Pentaho from Hitachi Vantara download | SourceForge.net](https://sourceforge.net/projects/pentaho/ "Pentaho from Hitachi Vantara download | SourceForge.net")
 1.  [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
 1.  [Code Conventions for the Java Programming Language: Contents](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html "Code Conventions for the Java Programming Language: Contents")
+1.  [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/ "GNU Bash manual - GNU Project - Free Software Foundation")
 1.  [GitHub](https://github.com/ "GitHub")
     *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/java.html.markdown "learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs")
