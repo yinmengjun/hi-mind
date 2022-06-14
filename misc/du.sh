@@ -1,3 +1,3 @@
 du
 du -sh /home
-# 18M     /home
+#18M     /home
