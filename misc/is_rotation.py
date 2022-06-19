@@ -12,5 +12,5 @@ def is_rotation(s1, s2):
     return is_substring(s1, s2 + s2)
 
 
-print(is_rotation('rotationstring', 'stringrotation'))  # True
-print(is_rotation('rotationstring', 'rotationstring'))  # False
+print(is_rotation('rotationstring', 'stringrotation'))  #True
+print(is_rotation('rotationstring', 'rotationstring'))  #False
