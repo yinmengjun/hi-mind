@@ -6,4 +6,4 @@ myfunc() {
 result="$(myfunc)"
 
 echo $result
-# some value
+#some value
