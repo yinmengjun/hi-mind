@@ -1,4 +1,4 @@
 whoami
-# hadoop
+#hadoop
 id -un
-# hadoop
+#hadoop
