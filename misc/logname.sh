@@ -1,2 +1,2 @@
 logname
-# hadoop
+#hadoop
