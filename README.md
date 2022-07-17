@@ -4,6 +4,7 @@
 1.  [GitHub](https://github.com/ "GitHub")
     *  [learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/json.html.markdown "learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/perl.html.markdown "learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs")
+    *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/sql.html.markdown "learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
@@ -50,7 +51,6 @@
     *  [cheatsheets/bash.md at master · rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets")
     *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/java.html.markdown "learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs")
-    *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
 1.  文章
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
 1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
