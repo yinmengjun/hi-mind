@@ -36,6 +36,7 @@
 1.  [GitChat](https://gitbook.cn/ "GitChat")
     *  [Day 9：Python 字符串和正则介绍总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb64ec8d9033cf92462e "Day 9：Python 字符串和正则介绍总结")
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
+1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 1.  [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/ "Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution")
 1.  [https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf "Pandas_Cheat_Sheet.pdf")
