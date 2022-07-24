@@ -52,6 +52,8 @@
     *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/java.html.markdown "learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs")
 1.  文章
+    *  [CSDN - 专业开发者社区](https://www.csdn.net/ "CSDN - 专业开发者社区") 
+       *  [大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法")
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
 1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
 1.  [WinSCP :: WinSCP](https://winscp.net/eng/docs/lang:chs/ "WinSCP :: WinSCP")
