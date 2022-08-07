@@ -10,6 +10,7 @@
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
+    *  [007 Linux 命令三剑客之-awk - 知乎](https://zhuanlan.zhihu.com/p/462185259 "007 Linux 命令三剑客之-awk - 知乎")
     *  [一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度](https://blog.csdn.net/qq_41523096/article/details/82142747/ "一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度")
     *  [PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客](https://blog.csdn.net/weixin_42163563/article/details/90292776 "PLSQL专项学习之Oracle存储过程中authid current_user和authid definer_京斗码农的博客-CSDN博客")
     *  [如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈](https://jishuin.proginn.com/p/763bfbd654fd "如何写好技术文档 - 来自 Google 十多年的文档经验！-技术圈")
