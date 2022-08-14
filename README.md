@@ -10,6 +10,7 @@
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
+    *  [005 Linux 命令三剑客之-sed - 知乎](https://zhuanlan.zhihu.com/p/461519868 "005 Linux 命令三剑客之-sed - 知乎")
     *  [006 Linux 命令三剑客之-grep - 知乎](https://zhuanlan.zhihu.com/p/461887127 "006 Linux 命令三剑客之-grep - 知乎")
     *  [007 Linux 命令三剑客之-awk - 知乎](https://zhuanlan.zhihu.com/p/462185259 "007 Linux 命令三剑客之-awk - 知乎")
     *  [015 Linux 标准输入输出、重定向、管道和后台启动进程命令 - 知乎](https://zhuanlan.zhihu.com/p/467923227 "015 Linux 标准输入输出、重定向、管道和后台启动进程命令 - 知乎")
