@@ -1,0 +1,16 @@
+SELECT
+	CAST( '22-OCT-1997' AS TIMESTAMP WITH LOCAL TIME ZONE ) 
+FROM
+	DUAL;
+SELECT
+	CAST( TO_DATE( '22-Oct-1997', 'DD-Mon-YYYY' ) AS TIMESTAMP WITH LOCAL TIME ZONE ) 
+FROM
+	DUAL;
+SELECT
+	product_id,
+	CAST(
+	ad_sourcetext AS VARCHAR2 ( 30 )) text 
+FROM
+	pm.print_media 
+ORDER BY
+	product_id;
