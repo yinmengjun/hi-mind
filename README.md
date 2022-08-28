@@ -7,6 +7,7 @@
     *  [learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/perl.html.markdown "learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/sql.html.markdown "learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs")
+    *  [notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.07-logging.ipynb "notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
