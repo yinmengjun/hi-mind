@@ -11,6 +11,7 @@
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
+    *  [Python 命名规范 - SegmentFault 思否](https://segmentfault.com/a/1190000041663605 "Python 命名规范 - SegmentFault 思否")
     *  [005 Linux 命令三剑客之-sed - 知乎](https://zhuanlan.zhihu.com/p/461519868 "005 Linux 命令三剑客之-sed - 知乎")
     *  [006 Linux 命令三剑客之-grep - 知乎](https://zhuanlan.zhihu.com/p/461887127 "006 Linux 命令三剑客之-grep - 知乎")
     *  [007 Linux 命令三剑客之-awk - 知乎](https://zhuanlan.zhihu.com/p/462185259 "007 Linux 命令三剑客之-awk - 知乎")
@@ -57,9 +58,6 @@
 1.  [Home | Kettle](http://www.kettle.be/ "Home | Kettle")
 1.  [Code Conventions for the Java Programming Language: Contents](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html "Code Conventions for the Java Programming Language: Contents")
 1.  [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/ "GNU Bash manual - GNU Project - Free Software Foundation")
-1.  [GitHub](https://github.com/ "GitHub")
-    *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
-    *  [learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/java.html.markdown "learnxinyminutes-docs/java.html.markdown at master · adambard/learnxinyminutes-docs")
 1.  [CSDN - 专业开发者社区](https://www.csdn.net/ "CSDN - 专业开发者社区")
     *  [大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法")
 1.  文章
