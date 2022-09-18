@@ -9,6 +9,8 @@
     *  [learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/sql.html.markdown "learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [notes-python/11.05-shutil.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.05-shutil.ipynb "notes-python/11.05-shutil.ipynb at master · lijin-THU/notes-python")
     *  [notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.07-logging.ipynb "notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python")
+1.  [GitChat](https://gitbook.cn/ "GitChat")
+    *  [Day 10：Python 文件操作 11 个案例总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb7cec8d9033cf924631 "Day 10：Python 文件操作 11 个案例总结")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  文章
@@ -44,8 +46,6 @@
 1.  [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Introduction - Python3网络爬虫开发实战")
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
-1.  [GitChat](https://gitbook.cn/ "GitChat")
-    *  [Day 10：Python 文件操作 11 个案例总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb7cec8d9033cf924631 "Day 10：Python 文件操作 11 个案例总结")
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
 1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
