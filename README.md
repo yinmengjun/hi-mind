@@ -13,6 +13,8 @@
     *  [Day 10：Python 文件操作 11 个案例总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb7cec8d9033cf924631 "Day 10：Python 文件操作 11 个案例总结")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
+1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
+    *  [28. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "28. Modular Programming and Modules | Python Tutorial")
 1.  文章
     *  [Python 命名规范 - SegmentFault 思否](https://segmentfault.com/a/1190000041663605 "Python 命名规范 - SegmentFault 思否")
     *  [005 Linux 命令三剑客之-sed - 知乎](https://zhuanlan.zhihu.com/p/461519868 "005 Linux 命令三剑客之-sed - 知乎")
@@ -47,7 +49,6 @@
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
-1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 1.  [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/ "Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution")
 1.  [https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf "Pandas_Cheat_Sheet.pdf")
