@@ -15,6 +15,7 @@
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
     *  [28. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "28. Modular Programming and Modules | Python Tutorial")
+    *  [29. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "29. Packages | Python Tutorial | python-course.eu")
 1.  文章
     *  [Python 命名规范 - SegmentFault 思否](https://segmentfault.com/a/1190000041663605 "Python 命名规范 - SegmentFault 思否")
     *  [005 Linux 命令三剑客之-sed - 知乎](https://zhuanlan.zhihu.com/p/461519868 "005 Linux 命令三剑客之-sed - 知乎")
