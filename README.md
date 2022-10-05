@@ -10,6 +10,7 @@
     *  [notes-python/11.05-shutil.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.05-shutil.ipynb "notes-python/11.05-shutil.ipynb at master · lijin-THU/notes-python")
     *  [notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.07-logging.ipynb "notes-python/11.07-logging.ipynb at master · lijin-THU/notes-python")
 1.  [GitChat](https://gitbook.cn/ "GitChat")
+    *  [Day 9：Python 字符串和正则介绍总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb64ec8d9033cf92462e "Day 9：Python 字符串和正则介绍总结")
     *  [Day 10：Python 文件操作 11 个案例总结](https://gitbook.cn/gitchat/column/5e37978dec8d9033cf916b5d/topic/5e3bcb7cec8d9033cf924631 "Day 10：Python 文件操作 11 个案例总结")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
