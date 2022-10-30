@@ -3,6 +3,7 @@
     *  [PEP 20 -- The Zen of Python | Python.org](https://www.python.org/dev/peps/pep-0020/ "PEP 20 -- The Zen of Python | Python.org")
 1.  [GitHub](https://github.com/ "GitHub")
     *  [cheatsheets/bash.md at master · rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets")
+    *  [learnxinyminutes-docs/javascript.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/javascript.html.markdown "learnxinyminutes-docs/javascript.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/json.html.markdown "learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/perl.html.markdown "learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
