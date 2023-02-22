@@ -48,6 +48,7 @@
 1.  [regex101: build, test, and debug regex](https://regex101.com/ "regex101: build, test, and debug regex")
 1.  [Online Tools](https://www.unicode.org/resources/online-tools.html "Online Tools")
 1.  [tldr pages](https://tldr.sh/ "tldr pages")
+1.  [SQL格式化](https://www.w3cschool.cn/tools/index?name=sql_formatter "SQL格式化")
 1.  [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 1.  [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
 1.  [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Introduction - Python3网络爬虫开发实战")
