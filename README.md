@@ -72,6 +72,7 @@
 1.  [FileZilla - The free FTP solution](https://filezilla-project.org/ "FileZilla - The free FTP solution")
 1.  [VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/ "VMware - Delivering a Digital Foundation For Businesses")
 1.  [Enterprise Open Source and Linux | Ubuntu](https://ubuntu.com/ "Enterprise Open Source and Linux | Ubuntu")
+1.  [帆软 - 上BI选帆软，专注BI十七年](https://www.fanruan.com/ "帆软 - 上BI选帆软，专注BI十七年")
 1.  [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 1.  [The Web Robots Pages](http://www.robotstxt.org/ "The Web Robots Pages")
 1.  [IQ测吧-国际标准智商测试题,提供权威专业的IQ测试题_智商测试题国际标准60题_IQ智力测试题__EQ测试题_MBTI职业测试题_抑郁症测试题等多种测试](https://www.iqce8.com/ "IQ测吧-国际标准智商测试题,提供权威专业的IQ测试题_智商测试题国际标准60题_IQ智力测试题__EQ测试题_MBTI职业测试题_抑郁症测试题等多种测试")
