@@ -51,6 +51,7 @@
 1.  [SQL格式化](https://www.w3cschool.cn/tools/index?name=sql_formatter "SQL格式化")
 1.  [SQL 格式化/压缩工具 | 菜鸟工具](https://c.runoob.com/front-end/701/ "SQL 格式化/压缩工具 | 菜鸟工具")
 1.  [ChatGPT Next Web](https://gpt.jichun29.cn/ "ChatGPT Next Web")
+1.  [SMS-Activate是在线接受短信的虚拟号码服务](https://sms-activate.org/cn "SMS-Activate是在线接受短信的虚拟号码服务")
 1.  [Jack Cui | 关注人工智能及互联网的个人网站](https://cuijiahua.com/ "Jack Cui | 关注人工智能及互联网的个人网站")
 1.  [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
 1.  [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/ "Introduction - Python3网络爬虫开发实战")
