@@ -51,6 +51,7 @@
 1.  [SQL格式化](https://www.w3cschool.cn/tools/index?name=sql_formatter "SQL格式化")
 1.  [SQL 格式化/压缩工具 | 菜鸟工具](https://c.runoob.com/front-end/701/ "SQL 格式化/压缩工具 | 菜鸟工具")
 1.  [ChatGPT Next Web](https://gpt.jichun29.cn/ "ChatGPT Next Web")
+1.  [ChatGPT - 也略 - 一个实现ChatGPT自由的网站！ - ✅qdymys](https://www.yelue.com/ "ChatGPT - 也略 - 一个实现ChatGPT自由的网站！ - ✅qdymys")
 1.  [ChatGPT - Poe](https://poe.com/ChatGPT "ChatGPT - Poe")
 1.  [Forefront Chat](https://chat.forefront.ai/ "Forefront Chat")
 1.  [GPT4 | ora.sh](https://ora.sh/openai/gpt4 "GPT4 | ora.sh")
