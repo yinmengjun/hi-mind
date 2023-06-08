@@ -19,7 +19,7 @@
     *  [28. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "28. Modular Programming and Modules | Python Tutorial")
     *  [29. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "29. Packages | Python Tutorial | python-course.eu")
 1.  文章
-    *  [大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_Yongkang_Chen的博客-CSDN博客_大数据模型算法")
+    *  [大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客")
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
     *  [Python 命名规范 - SegmentFault 思否](https://segmentfault.com/a/1190000041663605 "Python 命名规范 - SegmentFault 思否")
     *  [005 Linux 命令三剑客之-sed - 知乎](https://zhuanlan.zhihu.com/p/461519868 "005 Linux 命令三剑客之-sed - 知乎")
