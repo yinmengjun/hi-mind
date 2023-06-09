@@ -47,6 +47,7 @@
 1.  [Index of /rfc](https://www.ietf.org/rfc/ "Index of /rfc")
     *  [https://www.ietf.org/rfc/rfc2616.html](https://www.ietf.org/rfc/rfc2616.html "https://www.ietf.org/rfc/rfc2616.html")
 1.  [Convert HTML to PDF - Pdfcrowd](https://pdfcrowd.com/ "Convert HTML to PDF - Pdfcrowd")
+1.  [Convert curl commands to code](https://curlconverter.com/ "Convert curl commands to code")
 1.  [regex101: build, test, and debug regex](https://regex101.com/ "regex101: build, test, and debug regex")
 1.  [Online Tools](https://www.unicode.org/resources/online-tools.html "Online Tools")
 1.  [tldr pages](https://tldr.sh/ "tldr pages")
