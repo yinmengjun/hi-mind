@@ -1,2 +1,0 @@
-logname
-#hadoop
