@@ -1,0 +1,2 @@
+pwd
+#/home/hadoop/Desktop

@@ -1,0 +1,1 @@
+nohup ping -c 100 baidu.com > myout.file 2>&1 &
