@@ -1,1 +1,0 @@
-cp -r /data/ETL/APP/SDF/CHN/SDF_CHN_S_IASS_CH_BOCOM_K009 /databak/workspace/yinmengjun/mm
