@@ -81,6 +81,7 @@
 1.  [FileZilla - The free FTP solution](https://filezilla-project.org/ "FileZilla - The free FTP solution")
 1.  [7-Zip](https://www.7-zip.org/ "7-Zip")
 1. [Snipaste](https://www.snipaste.com/index.html "Snipaste")
+1. [Google Chrome 网络浏览器](https://www.google.cn/intl/zh-CN/chrome/ "Google Chrome 网络浏览器")
 1.  [VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/ "VMware - Delivering a Digital Foundation For Businesses")
 1.  [Enterprise Open Source and Linux | Ubuntu](https://ubuntu.com/ "Enterprise Open Source and Linux | Ubuntu")
 1.  [帆软 - 上BI选帆软，专注BI十七年](https://www.fanruan.com/ "帆软 - 上BI选帆软，专注BI十七年")
