@@ -79,6 +79,7 @@
 1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
 1.  [WinSCP :: WinSCP](https://winscp.net/eng/docs/lang:chs/ "WinSCP :: WinSCP")
 1.  [FileZilla - The free FTP solution](https://filezilla-project.org/ "FileZilla - The free FTP solution")
+1.  [NSIS: Nullsoft Scriptable Install System download | SourceForge.net](https://sourceforge.net/projects/nsis/ "NSIS: Nullsoft Scriptable Install System download | SourceForge.net")
 1.  [7-Zip](https://www.7-zip.org/ "7-Zip")
 1.  [Snipaste](https://www.snipaste.com/index.html "Snipaste")
 1.  [五彩插件  - 网页划线高亮标注工具 ](https://www.dotalk.cn/ "五彩插件  - 网页划线高亮标注工具 ")
