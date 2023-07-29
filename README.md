@@ -80,6 +80,7 @@
 1.  [7-Zip](https://www.7-zip.org/ "7-Zip")
 1.  [Snipaste](https://www.snipaste.com/index.html "Snipaste")
 1.  [数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站](https://www.diskgenius.cn/ "数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站")
+1.  [Crystal Dew World [en] -](https://crystalmark.info/en/ "Crystal Dew World [en] -")
 1.  [五彩插件  - 网页划线高亮标注工具 ](https://www.dotalk.cn/ "五彩插件  - 网页划线高亮标注工具 ")
 1.  [Google Chrome 网络浏览器](https://www.google.cn/intl/zh-CN/chrome/ "Google Chrome 网络浏览器")
 1.  [VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/ "VMware - Delivering a Digital Foundation For Businesses")
