@@ -4,6 +4,7 @@
 1.  [GitHub](https://github.com/ "GitHub")
     *  [cheatsheets/bash.md at master · rstacruz/cheatsheets · GitHub](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets · GitHub")
     *  [learnxinyminutes-docs/c.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/c.html.markdown "learnxinyminutes-docs/c.html.markdown at master · adambard/learnxinyminutes-docs")
+    *  [learnxinyminutes-docs/c++.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/c%2B%2B.html.markdown "learnxinyminutes-docs/c++.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/javascript.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/javascript.html.markdown "learnxinyminutes-docs/javascript.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/json.html.markdown "learnxinyminutes-docs/json.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/perl.html.markdown "learnxinyminutes-docs/perl.html.markdown at master · adambard/learnxinyminutes-docs")
