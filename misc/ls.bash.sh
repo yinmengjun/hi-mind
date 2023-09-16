@@ -1,5 +1,7 @@
 ls
 #mm  test.sh
+\ls # Escape the alias and use command with this name instead
+#test.sh
 ls --color=auto
 ls -al
 #total 16
