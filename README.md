@@ -13,8 +13,6 @@
     *  [learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown "learnxinyminutes-docs/python.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/sql.html.markdown "learnxinyminutes-docs/sql.html.markdown at master · adambard/learnxinyminutes-docs")
     *  [learnxinyminutes-docs/typescript.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/typescript.html.markdown "learnxinyminutes-docs/typescript.html.markdown at master · adambard/learnxinyminutes-docs")
-    *  [notes-python/11-useful-tools/11.05-shutil.ipynb at master · lijin-THU/notes-python · GitHub](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.05-shutil.ipynb "notes-python/11-useful-tools/11.05-shutil.ipynb at master · lijin-THU/notes-python · GitHub")
-    *  [notes-python/11-useful-tools/11.07-logging.ipynb at master · lijin-THU/notes-python · GitHub](https://github.com/lijin-THU/notes-python/blob/master/11-useful-tools/11.07-logging.ipynb "notes-python/11-useful-tools/11.07-logging.ipynb at master · lijin-THU/notes-python · GitHub")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
