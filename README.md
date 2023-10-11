@@ -15,7 +15,7 @@
     *  [learnxinyminutes-docs/typescript.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/typescript.html.markdown "learnxinyminutes-docs/typescript.html.markdown at master · adambard/learnxinyminutes-docs")
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
-1.  [Python Courses and Tutorials: Online and On Site](https://python-course.eu/ "Python Courses and Tutorials: Online and On Site")
+1.  [Intro to Python Tutorial | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/ "Intro to Python Tutorial | Python Tutorial | python-course.eu")
     *  [28. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "28. Modular Programming and Modules | Python Tutorial")
     *  [29. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "29. Packages | Python Tutorial | python-course.eu")
 1.  文章
