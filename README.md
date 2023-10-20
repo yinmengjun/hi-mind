@@ -69,6 +69,7 @@
 1.  [NSIS: Nullsoft Scriptable Install System download | SourceForge.net](https://sourceforge.net/projects/nsis/ "NSIS: Nullsoft Scriptable Install System download | SourceForge.net")
 1.  [Pentaho from Hitachi Vantara download | SourceForge.net](https://sourceforge.net/projects/pentaho/ "Pentaho from Hitachi Vantara download | SourceForge.net")
 1.  [Documentation - Hitachi Vantara Lumada and Pentaho Documentation](https://help.hitachivantara.com/Documentation "Documentation - Hitachi Vantara Lumada and Pentaho Documentation")
+1.  [Hitachi Vantara - Data Storage and Analytics, DataOps, IoT, Cloud, Consulting](https://www.hitachivantara.com/en-us/home.html "Hitachi Vantara - Data Storage and Analytics, DataOps, IoT, Cloud, Consulting")
 1.  [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/index.html "The Java™ Tutorials")
 1.  [Code Conventions for the Java Programming Language: Contents](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html "Code Conventions for the Java Programming Language: Contents")
 1.  [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/ "GNU Bash manual - GNU Project - Free Software Foundation")
