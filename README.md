@@ -57,6 +57,7 @@
 1.  [静觅丨崔庆才的个人站点](https://cuiqingcai.com/ "静觅丨崔庆才的个人站点")
 1.  [Introduction - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com "Introduction - Python3网络爬虫开发实战")
     *  [3-基本库的使用 - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/3-ji-ben-ku-de-shi-yong "3-基本库的使用 - Python3网络爬虫开发实战")
+    * [13-Scrapy框架的使用 - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/13scrapy-kuang-jia-de-shi-yong "13-Scrapy框架的使用 - Python3网络爬虫开发实战")
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
 1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
