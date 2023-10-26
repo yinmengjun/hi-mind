@@ -20,6 +20,7 @@
     *  [29. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "29. Packages | Python Tutorial | python-course.eu")
 1.  [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/ "Python Data Science Handbook | Python Data Science Handbook")
     *  [Introduction to NumPy | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html "Introduction to NumPy | Python Data Science Handbook")
+    *  [Data Manipulation with Pandas | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html "Data Manipulation with Pandas | Python Data Science Handbook")
 1.  文章
     *  [大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客")
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
