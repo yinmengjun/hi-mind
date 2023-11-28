@@ -17,7 +17,7 @@
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  [Intro to Python Tutorial | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/ "Intro to Python Tutorial | Python Tutorial | python-course.eu")
     *  [28. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "28. Modular Programming and Modules | Python Tutorial")
-    *  [29. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "29. Packages | Python Tutorial | python-course.eu")
+    *  [31. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "31. Packages | Python Tutorial | python-course.eu")
 1.  [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/ "Python Data Science Handbook | Python Data Science Handbook")
     *  [Introduction to NumPy | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html "Introduction to NumPy | Python Data Science Handbook")
     *  [Data Manipulation with Pandas | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html "Data Manipulation with Pandas | Python Data Science Handbook")
