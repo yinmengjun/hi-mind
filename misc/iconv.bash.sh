@@ -176,13 +176,17 @@ iconv -l
 #  WINDOWS-936, WINDOWS-1250, WINDOWS-1251, WINDOWS-1252, WINDOWS-1253,
 #  WINDOWS-1254, WINDOWS-1255, WINDOWS-1256, WINDOWS-1257, WINDOWS-1258,
 #  WINSAMI2, WS2, YU
+
 #cat iconv.txt
 #iconv测试
+
 iconv -c -f GBK -t UTF-8 -o iconv_utf8.txt iconv.txt
 #cat iconv_utf8.txt
 #iconv测试
+
 iconv -c -f GBK -t UTF-8 iconv.txt >> iconv_utf8.txt
 #cat iconv_utf8.txt
 #iconv测试
+
 iconv -c -f GBK -t UTF-8 iconv.txt
 #iconv测试
