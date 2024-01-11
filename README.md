@@ -79,6 +79,7 @@
 1.  [The Linux Kernel Archives](https://www.kernel.org/ "The Linux Kernel Archives")
 1.  [GNU 操作系统和自由软件运动](https://www.gnu.org/ "GNU 操作系统和自由软件运动")
     *  [GNU Bash manual - GNU Project - Free Software Foundation](https://www.gnu.org/software/bash/manual/ "GNU Bash manual - GNU Project - Free Software Foundation")
+1.  [Welcome to The Grymoire!](https://www.grymoire.com/index.html "Welcome to The Grymoire!")
 1.  [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/ "PuTTY: a free SSH and Telnet client")
 1.  [WinSCP :: WinSCP](https://winscp.net/eng/docs/lang:chs/ "WinSCP :: WinSCP")
 1.  [FileZilla - The free FTP solution](https://filezilla-project.org/ "FileZilla - The free FTP solution")
