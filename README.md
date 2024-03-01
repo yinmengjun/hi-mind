@@ -29,6 +29,7 @@
     *  [No.16 【漫谈数据仓库】 拉链表](https://mp.weixin.qq.com/s/gaPTeEXvHGOuT8tlre4nFw "No.16 【漫谈数据仓库】 拉链表")
     *  [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/index.zh.html "git - the simple guide - no deep shit!")
 1.  [首页 DAMA China – DAMA China](http://www.dama.org.cn/wordpress/dchomepage/ "首页 DAMA China – DAMA China")
+1.  [首页 - 国际数据管理协会-国际数据管理协会](https://www.mydama.org.cn/ "首页 - 国际数据管理协会-国际数据管理协会")
 1.  [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](https://db-engines.com/en/ "DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems")
 1.  [NoSQL Databases List by Hosting Data - Updated 2020](https://hostingdata.co.uk/nosql-database/ "NoSQL Databases List by Hosting Data - Updated 2020")
 1.  [SQL Fiddle](http://www.sqlfiddle.com/ "SQL Fiddle")
