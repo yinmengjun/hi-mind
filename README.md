@@ -28,6 +28,7 @@
 1.  [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/ "Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution")
 1.  [Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf "Pandas_Cheat_Sheet.pdf")
 1.  [Welcome — Sphinx documentation](https://www.sphinx-doc.org "Welcome — Sphinx documentation")
+1.  [Bash Script Beautifier (Python)](https://arachnoid.com/python/beautify_bash_program.html "Bash Script Beautifier (Python)")
 1.  文章
     *  [大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客")
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
