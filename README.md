@@ -1,6 +1,4 @@
 # :1234:  Link
-1.  [PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](https://peps.python.org/ "PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org")
-    *  [PEP 20 – The Zen of Python | peps.python.org](https://peps.python.org/pep-0020/ "PEP 20 – The Zen of Python | peps.python.org")
 1.  [GitHub](https://github.com/ "GitHub")
     *  [cheatsheets/bash.md at master · rstacruz/cheatsheets · GitHub](https://github.com/rstacruz/cheatsheets/blob/master/bash.md "cheatsheets/bash.md at master · rstacruz/cheatsheets · GitHub")
     *  [learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/blob/master/bash.html.markdown "learnxinyminutes-docs/bash.html.markdown at master · adambard/learnxinyminutes-docs")
