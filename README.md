@@ -37,7 +37,6 @@
 1.  [Oracle Database Online Documentation 11g](https://docs.oracle.com/cd/E11882_01/index.htm "Oracle Database Online Documentation 11g")
 1.  [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode-cn.com/ "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台")
 1.  [AMiner - AI赋能科技情报挖掘](https://www.aminer.cn/ "AMiner - AI赋能科技情报挖掘")
-1.  [Z-Library Project - Electronic library. Download books free](https://z-lib.is/ "Z-Library Project - Electronic library. Download books free")
 1.  [The latest in Machine Learning | Papers With Code](https://www.paperswithcode.com/ "The latest in Machine Learning | Papers With Code")
 1.  [Art of Problem Solving](https://artofproblemsolving.com/ "Art of Problem Solving")
 1.  [Index of /rfc](https://www.ietf.org/rfc/ "Index of /rfc")
