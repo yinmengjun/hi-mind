@@ -58,7 +58,6 @@
     *  [13.1-Scrapy框架介绍 - Python3网络爬虫开发实战](https://python3webspider.cuiqingcai.com/13.1scrapy-kuang-jia-jie-shao "13.1-Scrapy框架介绍 - Python3网络爬虫开发实战")
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
-1.  [Learn Python Programming - Python Tutorial](https://pythonbasics.org/ "Learn Python Programming - Python Tutorial")
 1.  [Python Resources for working with Excel - Working with Excel Files in Python](http://www.python-excel.org/ "Python Resources for working with Excel - Working with Excel Files in Python")
 1.  [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/ "Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution")
 1.  [Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf "Pandas_Cheat_Sheet.pdf")
