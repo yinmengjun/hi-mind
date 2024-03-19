@@ -106,4 +106,5 @@
 1.  [首页 - 全国DCMM符合性评估公共服务平台](http://www.dcmm.org.cn/ "首页 - 全国DCMM符合性评估公共服务平台")
 1.  [国家标准全文公开](https://openstd.samr.gov.cn/bzgk/gb/index "国家标准全文公开")
 1.  [全球领先的项目管理协会——PMI(中国)](https://www.pmichina.org/ "全球领先的项目管理协会——PMI(中国)")
+1.  [熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及科研文档搜索_学习资料检索和分享_xmsoushu_xmsearch](https://xmsoushu.com/ "熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及科研文档搜索_学习资料检索和分享_xmsoushu_xmsearch")
 1.  [无名图书 | 一个好看的电子书网站](https://www.book123.info/ "无名图书 | 一个好看的电子书网站")
