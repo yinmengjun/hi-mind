@@ -90,7 +90,7 @@
 1.  [Welcome – Gentoo Linux](https://www.gentoo.org/ "Welcome – Gentoo Linux")
 1.  [Arch Linux](https://archlinux.org/ "Arch Linux")
 1.  [Welcome to Linux From Scratch!](https://linuxfromscratch.org/ "Welcome to Linux From Scratch!")
-1.  [帆软 - 上BI选帆软，专注BI十七年](https://www.fanruan.com/ "帆软 - 上BI选帆软，专注BI十七年")
+1.  [帆软 - 上BI选帆软，专注BI十八年](https://www.fanruan.com/ "帆软 - 上BI选帆软，专注BI十八年")
 1.  [Microsoft Learn：培养开拓职业生涯新机遇的技能](https://learn.microsoft.com/zh-cn/ "Microsoft Learn：培养开拓职业生涯新机遇的技能")
 1.  [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/ "Daring Fireball: Markdown")
 1.  [The Web Robots Pages](http://www.robotstxt.org/ "The Web Robots Pages")
