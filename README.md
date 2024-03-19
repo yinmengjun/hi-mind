@@ -105,3 +105,4 @@
 1.  [首页 - 国际数据管理协会-国际数据管理协会](https://www.mydama.org.cn/ "首页 - 国际数据管理协会-国际数据管理协会")
 1.  [首页 - 全国DCMM符合性评估公共服务平台](http://www.dcmm.org.cn/ "首页 - 全国DCMM符合性评估公共服务平台")
 1.  [国家标准全文公开](https://openstd.samr.gov.cn/bzgk/gb/index "国家标准全文公开")
+1.  [全球领先的项目管理协会——PMI(中国)](https://www.pmichina.org/ "全球领先的项目管理协会——PMI(中国)")
