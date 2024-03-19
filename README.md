@@ -112,5 +112,3 @@
 1.  [Library Genesis](https://libgen.gs/ "Library Genesis")
 1.  [Library Genesis](https://libgen.vg/ "Library Genesis")
 1.  [Library Genesis](https://libgen.pm/ "Library Genesis")
-
-
