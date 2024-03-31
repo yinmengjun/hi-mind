@@ -115,3 +115,6 @@
 1.  [EPUB阅读器 | TXT阅读器 | Neat Reader | 超赞的全平台电子书阅读器，全球百万用户共同的选择](https://www.neat-reader.cn/ "EPUB阅读器 | TXT阅读器 | Neat Reader | 超赞的全平台电子书阅读器，全球百万用户共同的选择")
 1.  [calibre - E-book management](https://calibre-ebook.com/ "calibre - E-book management")
 1.  [异步社区-致力于优质IT知识的出版和分享](https://www.epubit.com/ "异步社区-致力于优质IT知识的出版和分享")
+1.  [火车采集器官网-网页抓取工具_火车头采集器_免费网站采集软件](https://www.locoy.com/ "火车采集器官网-网页抓取工具_火车头采集器_免费网站采集软件")
+1.  [后羿采集器_真免费！导出无限制网络爬虫软件_人工智能数据采集软件](https://www.houyicaiji.com/ "后羿采集器_真免费！导出无限制网络爬虫软件_人工智能数据采集软件")
+1.  [八爪鱼采集器 - 免费网络爬虫软件_网页大数据抓取工具](https://www.bazhuayu.com/ "八爪鱼采集器 - 免费网络爬虫软件_网页大数据抓取工具")
