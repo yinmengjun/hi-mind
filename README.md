@@ -30,7 +30,6 @@
 1.  [Welcome — Sphinx documentation](https://www.sphinx-doc.org "Welcome — Sphinx documentation")
 1.  [Bash Script Beautifier (Python)](https://arachnoid.com/python/beautify_bash_program.html "Bash Script Beautifier (Python)")
 1.  文章
-    *  [大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客](https://blog.csdn.net/Yongkang_Chen/article/details/121968040 "大数据平台模型数据算法总结--抽象且形象的描述_数据仓库加载算法f2_Yongkang_Chen的博客-CSDN博客")
     *  [详解Linux中nohup和&的用法和区别 - 知乎](https://zhuanlan.zhihu.com/p/258326013 "详解Linux中nohup和&的用法和区别 - 知乎")
     *  [Python 命名规范 - SegmentFault 思否](https://segmentfault.com/a/1190000041663605 "Python 命名规范 - SegmentFault 思否")
     *  [一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度](https://blog.csdn.net/qq_41523096/article/details/82142747/ "一套图  搞懂“时间复杂度”_12 26 25 的博客-CSDN博客_时间复杂度")
