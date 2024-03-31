@@ -115,3 +115,4 @@
 1.  [Convertio — 文件转换器](https://convertio.co/zh/ "Convertio — 文件转换器")
 1.  [EPUB阅读器 | TXT阅读器 | Neat Reader | 超赞的全平台电子书阅读器，全球百万用户共同的选择](https://www.neat-reader.cn/ "EPUB阅读器 | TXT阅读器 | Neat Reader | 超赞的全平台电子书阅读器，全球百万用户共同的选择")
 1.  [calibre - E-book management](https://calibre-ebook.com/ "calibre - E-book management")
+1.  [异步社区-致力于优质IT知识的出版和分享](https://www.epubit.com/ "异步社区-致力于优质IT知识的出版和分享")
