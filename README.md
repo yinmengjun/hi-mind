@@ -14,6 +14,7 @@
 1.  [厦门大学数据库实验室 | 数据驱动生活](http://dblab.xmu.edu.cn/ "厦门大学数据库实验室 | 数据驱动生活")
     *  [Python入门教程_厦大数据库实验室博客](http://dblab.xmu.edu.cn/blog/python/ "Python入门教程_厦大数据库实验室博客")
 1.  [Learn Data Science and AI Online | DataCamp](https://www.datacamp.com/ "Learn Data Science and AI Online | DataCamp")
+1.  [Coursera | Degrees, Certificates, & Free Online Courses ](https://www.coursera.org/ "Coursera | Degrees, Certificates, & Free Online Courses ")
 1.  [Intro to Python Tutorial | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/ "Intro to Python Tutorial | Python Tutorial | python-course.eu")
     *  [30. Modular Programming and Modules | Python Tutorial](https://python-course.eu/python-tutorial/modules-and-modular-programming.php "30. Modular Programming and Modules | Python Tutorial")
     *  [31. Packages | Python Tutorial | python-course.eu](https://python-course.eu/python-tutorial/packages.php "31. Packages | Python Tutorial | python-course.eu")
