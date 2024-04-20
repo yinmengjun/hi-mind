@@ -58,6 +58,7 @@
 1.  [SQL格式化](https://www.w3cschool.cn/tools/index?name=sql_formatter "SQL格式化")
 1.  [SQL 格式化/压缩工具 | 菜鸟工具](https://c.runoob.com/front-end/701/ "SQL 格式化/压缩工具 | 菜鸟工具")
 1.  [ChatGPT - Poe](https://poe.com/ChatGPT "ChatGPT - Poe")
+1.  [ChatGPT](https://chat.openai.com/ "ChatGPT")
 1.  [SMS-Activate是在线接受短信的虚拟号码服务](https://sms-activate.org/cn "SMS-Activate是在线接受短信的虚拟号码服务")
 1.  [Fiddler| Web Debugging Proxy and Troubleshooting Solutions](https://www.telerik.com/fiddler/ "Fiddler| Web Debugging Proxy and Troubleshooting Solutions")
 1.  [雷锋网_读懂智能&未来](https://www.leiphone.com/ "雷锋网_读懂智能&未来")
