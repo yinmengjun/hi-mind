@@ -36,6 +36,7 @@
     *  [git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/index.zh.html "git - the simple guide - no deep shit!")
     *  [No.16 【漫谈数据仓库】 拉链表](https://mp.weixin.qq.com/s/gaPTeEXvHGOuT8tlre4nFw "No.16 【漫谈数据仓库】 拉链表")
     *  [技术分享丨数据仓库的建模与ETL实践技巧_华为数仓模型-CSDN博客](https://blog.csdn.net/devcloud/article/details/108060920 "技术分享丨数据仓库的建模与ETL实践技巧_华为数仓模型-CSDN博客")
+    *  [8种ETL算法汇总大全！看完你就全明白了-云社区-华为云](https://bbs.huaweicloud.com/blogs/177235 "8种ETL算法汇总大全！看完你就全明白了-云社区-华为云")
 1.  [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](https://db-engines.com/en/ "DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems")
 1.  [NoSQL Databases List by Hosting Data - Updated 2020](https://hostingdata.co.uk/nosql-database/ "NoSQL Databases List by Hosting Data - Updated 2020")
 1.  [SQL Fiddle](http://www.sqlfiddle.com/ "SQL Fiddle")
